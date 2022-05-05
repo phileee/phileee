@@ -1,1 +1,1 @@
-<img align=center src='https://github.com/phileee/stats-terminal-style/blob/master/github_stats.svg'>
+<img align=center src='https://github.com/phileee/stats-terminal-style/blob/master/github_stats.svg'> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phileee)](https://github.com/anuraghazra/github-readme-stats)
